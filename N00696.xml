@@ -115,8 +115,10 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000842_0000_0FABA32BFA033DF8" rendition="simple:additions"/>
-            <pb facs="tcp:000842_0001_0FABA32C87612900" rendition="simple:additions"/>
+            <pb facs="unknown:000842_0000_0FABA32BFA033DF8"
+                rendition="simple:additions"/>
+            <pb facs="unknown:000842_0001_0FABA32C87612900"
+                rendition="simple:additions"/>
             <head>
                <figure/> By His Excellency <hi>Richard Earl of Bellomont,</hi> Captain General and Governour in Chief of His Majeſties Province of <hi>New-York,</hi> and Territories depending thereon in <hi>America,</hi> and Vice Admiral of the ſame, <hi>&amp;c.</hi> A PROCLAMATION</head>
             <p>WHEREAS Several of his Maieſties Subjects have of late years departed from the Alle<g ref="char:EOLhyphen"/>giance they owe unto His M<gap reason="illegible: missing" extent="1 letter">
